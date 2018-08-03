@@ -1,0 +1,21 @@
+{
+  "name": "node-excel-export-map",
+  "version": "1.0.0",
+  "description": "Node-Excel-Export with support order specified title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karasli147/node-excel-export.git"
+  },
+  "keywords": [
+    "excel"
+  ],
+  "author": "ericlee <eric368811@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx-style": "^0.8.13"
+  }
+}

@@ -1,8 +1,13 @@
 {
   "name": "node-excel-export-map",
   "version": "1.0.0",
-  "description": "Node-Excel-Export with support order specified title",
+  "description": "Node-Excel-Export with support of specifying specification order",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,11 +16,13 @@
     "url": "git+https://github.com/karasli147/node-excel-export.git"
   },
   "keywords": [
-    "excel"
+    "excel",
+    "export"
   ],
-  "author": "ericlee <eric368811@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "xlsx-style": "^0.8.13"
-  }
+  "author": "ericlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karasli147/node-excel-export/issues"
+  },
+  "homepage": "https://github.com/karasli147/node-excel-export#readme"
 }
